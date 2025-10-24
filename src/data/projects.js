@@ -417,7 +417,7 @@ export const projectList = [
   {
     name: "TEAMMATES",
     imageSrc:
-      "https://www.google-melange.com/archive/gsoc/2015/orgs/teammates/logo-200.png",
+      "https://avatars.githubusercontent.com/u/7374810?v=4",
     projectLink: "https://github.com/TEAMMATES/teammates/contribute",
     description:
       "An online feedback management system for students and teachers",
@@ -1096,7 +1096,7 @@ export const projectList = [
   },
   {
     name: "DSA",
-    imageSrc: "https://avatars3.githubusercontent.com/u/67384272?v=4",
+    imageSrc: "https://private-user-images.githubusercontent.com/163942111/486859242-af79e7da-db2c-4b97-914e-1ae525599057.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyODc4MTgsIm5iZiI6MTc2MTI4NzUxOCwicGF0aCI6Ii8xNjM5NDIxMTEvNDg2ODU5MjQyLWFmNzllN2RhLWRiMmMtNGI5Ny05MTRlLTFhZTUyNTU5OTA1Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQwNjMxNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MDgyY2U3MjM0MTUyY2MyN2ZjNzljYjM0ZDhmODg5OTFiMzU0ODExOGMzMWNlYmJjOWQzOWFhODUwZjJmMTRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OWXhm7od-_T1DevReZNN1EcVv-6i0Aww2rC2OKcouAk",
     projectLink: "https://github.com/MakeContributions/DSA",
     description: "Data structure and Algorithm (DSA) contributions",
     tags: [
