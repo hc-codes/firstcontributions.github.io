@@ -41,14 +41,16 @@ const { projectLink, logoLink, name, description, tags = [], loadIssues = false 
         <IssueList projectLink={projectLink} projectName={name} />
       )}
     </div>
-    <div class="Card-Link">
-      <span>Go to Project</span>
-    </div>
+  </a>
+  <a class="Card-Link" href={projectLink} target="_blank">
+    <span>Go to Project</span>
   </a>
 </div>
 
 <style>
   .Card-Container {
+    display: flex;
+    flex-direction: column;
     background: rgba(255, 255, 255, 0.08);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -92,6 +94,7 @@ const { projectLink, logoLink, name, description, tags = [], loadIssues = false 
     color: inherit;
     height: 100%;
     display: flex;
+    flex: 1;
     flex-direction: column;
     position: relative;
     z-index: 1;
@@ -170,6 +173,9 @@ const { projectLink, logoLink, name, description, tags = [], loadIssues = false 
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    text-decoration: none;
+    display: block;
+    margin: 1rem;
   }
 
   .Card-Link::before {
